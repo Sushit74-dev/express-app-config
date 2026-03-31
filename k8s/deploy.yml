@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: express-app
-        image: expresstest12345.azurecr.io/express-app:v1
+        image: expresstest12345.azurecr.io/express-app:v2
         ports:
         - containerPort: 4000
